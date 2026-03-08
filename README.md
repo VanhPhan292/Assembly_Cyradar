@@ -1,1 +1,1 @@
-Pass: Infected (extract by winrar or 7-zip)
+Pass: infected (extract by winrar or 7-zip)
